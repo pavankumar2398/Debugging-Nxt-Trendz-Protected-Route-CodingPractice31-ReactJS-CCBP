@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.projectTimelineCard-container {
+  background-color: #ffffff;
+}
+.image {
+  width: 100%;
+}
+.projectTitle-time-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.projectTitle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.projectTitle {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.filler-calender {
+  width: 20px;
+  height: 20px;
+}
+.duration {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #171f46;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.project-url {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #0967d2;
+  font-weight: bold;
+  text-decoration: none;
+}

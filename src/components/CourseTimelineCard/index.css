@@ -1,0 +1,42 @@
+/* Write your CSS here */
+
+.course-container {
+  background-color: #ffffff;
+}
+.courseName-time-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.course-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.time-logo {
+  width: 15px;
+  height: 15px;
+}
+.time-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.time {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.description {
+  font-size: 17px;
+  font-family: 'Roboto';
+}
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tags {
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  background-color: #edebe6;
+  padding: 5px;
+}

@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.timelineView-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  font-size: 23px;
+  font-family: 'Roboto';
+  color: #171f46;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.sub-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #2b237c;
+}
